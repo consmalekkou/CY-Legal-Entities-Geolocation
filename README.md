@@ -11,12 +11,15 @@ For the purposes of this specific project, we have considered as sample populati
 
 Code was developed to run through JupyterLab Notebook with PySpark kernel on the Google Cloud Platform. The additional components needed for this project to run on the Google Cloud Platform are Dataproc with Compute Engine Virtual Machines and Storage Bucket. The code makes use of the PySpark Dataframe RDD data structure for fast and effective data processing. Persisting the entire legal entity population with geolocations RDD to disk storage was not pursued, as the dataset was quite large for the resources available. The results will be presented through a sample of 20k legal entities with geolocations, with the potential to grow to the full population given additional resources.
 
-### Attachments / Deliverables
+### Attachments
 - Geolocation Project CM.ipynb - PySpark Notebook with the code to translate the text address data to geolocations and merge with the registered legal entities.
 - Legal entities datasets.zip - Datasets for the Registered Legal Entities and the Registered Offices. Datasets have been slightly preprocessed with excel to fix import errors. Following import they have also been preprocessed through python
 - Map_btch1.csv - Sample dataset with results from the Pyspark Notebook
 
-- Video project description and results presentation can be found by clicking here.
+### Deliverables
+- [Interactive map visualisation of a sample result dataset through Google DataStudio (Looker)](https://datastudio.google.com/reporting/86bf60bc-1025-4140-b94a-aa0002f656be) 
+
+- Video project description and results presentation
 
 
 Developed by: Constantia Malekkou
