@@ -11,23 +11,16 @@ CY Open Data portal for all legal entities registered in Cyprus and their regist
 
 Code was developed to run through JupyterLab Notebook with PySpark kernel on the Google Cloud Platform. The additional components needed for this project to run on the Google Cloud Platform are Dataproc with Compute Engine Virtual Machines and Storage Bucket. The code makes use of the PySpark Dataframe RDD data structure for fast and effective data processing. Persisting the entire legal entity population with geolocations RDD to disk storage was not pursued, as the dataset was quite large for the resources available. The results will be presented through a sample of 20k legal entities with geolocations, with the potential to grow to the full population given additional resources.
 
-### Deliverables
+### Attachments / Deliverables
+- Geolocation Project CM.ipynb - PySpark Notebook with the code to translate the text address data to geolocations and merge with the registered legal entities.
+- Registered Legal Entities Dataset 
+- Registered Offices Dataset
+- Sample dataset with results
 
-- PySpark Notebook with the code to translate the text address data to geolocations and merge with the registered legal entities
-
-
-
-
-
-
-
-In this project I am dealing with the Variety dimension, as well as the Volume dimension.
-
-The hypothesis
-The project was developed as part of the requirements for the Big Data Management and Processing course of the MSc in Data Science at the University of Nicosia. 
+- Video project description and results presentation can be found by clicking here.
 
 
+Developed by: Constantia Malekkou
+Contact email: constantia.malekkou@gmail.com
 
-## this is a 2 header
 
-#### this is a 4 header
