@@ -13,13 +13,14 @@ Code was developed to run through JupyterLab Notebook with PySpark kernel on the
 
 ### Attachments / Deliverables
 - Geolocation Project CM.ipynb - PySpark Notebook with the code to translate the text address data to geolocations and merge with the registered legal entities.
-- Datasets for the Registered Legal Entities and the Registered Offices. Datasets have been slightly preprocessed with excel to fix import errors. Following import they have also been preprocessed through python
+- Legal entities datasets.zip - Datasets for the Registered Legal Entities and the Registered Offices. Datasets have been slightly preprocessed with excel to fix import errors. Following import they have also been preprocessed through python
 - Sample dataset with results from the Pyspark Notebook
 
 - Video project description and results presentation can be found by clicking here.
 
 
 Developed by: Constantia Malekkou
+
 Contact email: constantia.malekkou@gmail.com
 
 
