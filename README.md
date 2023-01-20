@@ -20,9 +20,9 @@ Code was developed to run through JupyterLab Notebook with PySpark kernel on the
   Sample dataset with results from the Pyspark Notebook
 
 ### Deliverables
-- [Interactive map visualisation of a sample result dataset through Google DataStudio (Looker)](https://datastudio.google.com/reporting/86bf60bc-1025-4140-b94a-aa0002f656be) 
+- [Interactive map visualisation](https://datastudio.google.com/reporting/86bf60bc-1025-4140-b94a-aa0002f656be) of a sample result dataset through Looker Studio (former Data Studio)
 
-- Video project description and results presentation
+- Video project presentation
 
 
 Developed by: Constantia Malekkou
