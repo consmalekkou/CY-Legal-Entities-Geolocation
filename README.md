@@ -1,5 +1,4 @@
 # CY-Legal-Entities-Geolocation
-By Constantia Malekkou
 
 ### Objectives
 The scope of the project was the exploration of the dimensions relating to Big Data. My project’s main focus was the Variety dimension. This dimension is about data that we can find in abundancy, that are unstructured, not organized in a predefined manner, and are found in various forms, for example text data, images, videos, and in this specific case geolocation data. The fact that they are in different forms presents difficulties to query, analyze and merge the different sources to gain valuable insights, and base business decisions on the available data. 
@@ -23,7 +22,7 @@ Code was developed to run through JupyterLab Notebook with PySpark kernel on the
 ### Deliverables
 - [Interactive map visualisation](https://datastudio.google.com/reporting/86bf60bc-1025-4140-b94a-aa0002f656be) of a sample result dataset through Looker Studio (former Data Studio)
 
-- Video project presentation
+- [Video project presentation](https://youtu.be/H0cU-ht8lFM)
 
 
 Developed by: Constantia Malekkou
