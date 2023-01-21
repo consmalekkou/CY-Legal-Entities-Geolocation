@@ -4,7 +4,7 @@ By Constantia Malekkou
 ### Objectives
 The scope of the project was the exploration of the dimensions relating to Big Data. My project’s main focus was the Variety dimension. This dimension is about data that we can find in abundancy, that are unstructured, not organized in a predefined manner, and are found in various forms, for example text data, images, videos, and in this specific case geolocation data. The fact that they are in different forms presents difficulties to query, analyze and merge the different sources to gain valuable insights, and base business decisions on the available data. 
 
-The final goal of this solution is to identify optimal physical store locations, given text address data of the business' customers. The project has been prepared as part of the Big Data Management and Processing course, for the Masters in Data Science for the University of Nicosia.
+The final goal of this solution is to identify optimal physical store locations, given text address data of the business' customers. The project has been prepared as part of the Big Data Management and Processing course, for the MSc in Data Science for the University of Nicosia.
 
 ### Description
 For the purposes of this specific project, we have taken the legal entities registered in Cyprus as a sample population. Data has been gathered through the 
