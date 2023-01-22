@@ -22,7 +22,7 @@ Code was developed to run through JupyterLab Notebook with PySpark kernel on the
 ### Deliverables
 - [Interactive map visualisation](https://datastudio.google.com/reporting/86bf60bc-1025-4140-b94a-aa0002f656be) of a sample result dataset through Looker Studio (former Data Studio)
 
-- [Video project presentation](https://youtu.be/H0cU-ht8lFM)
+- [Video project presentation](https://youtu.be/iL3iLyo_Y1M)
 
 
 Developed by: Constantia Malekkou
